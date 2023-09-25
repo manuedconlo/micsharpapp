@@ -1,0 +1,15 @@
+/Users/user/Projects/micsharpapp/micsharpapp/bin/Debug/net7.0/micsharpapp
+/Users/user/Projects/micsharpapp/micsharpapp/bin/Debug/net7.0/micsharpapp.deps.json
+/Users/user/Projects/micsharpapp/micsharpapp/bin/Debug/net7.0/micsharpapp.runtimeconfig.json
+/Users/user/Projects/micsharpapp/micsharpapp/bin/Debug/net7.0/micsharpapp.dll
+/Users/user/Projects/micsharpapp/micsharpapp/bin/Debug/net7.0/micsharpapp.pdb
+/Users/user/Projects/micsharpapp/micsharpapp/obj/Debug/net7.0/micsharpapp.csproj.AssemblyReference.cache
+/Users/user/Projects/micsharpapp/micsharpapp/obj/Debug/net7.0/micsharpapp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/Projects/micsharpapp/micsharpapp/obj/Debug/net7.0/micsharpapp.AssemblyInfoInputs.cache
+/Users/user/Projects/micsharpapp/micsharpapp/obj/Debug/net7.0/micsharpapp.AssemblyInfo.cs
+/Users/user/Projects/micsharpapp/micsharpapp/obj/Debug/net7.0/micsharpapp.csproj.CoreCompileInputs.cache
+/Users/user/Projects/micsharpapp/micsharpapp/obj/Debug/net7.0/micsharpapp.dll
+/Users/user/Projects/micsharpapp/micsharpapp/obj/Debug/net7.0/refint/micsharpapp.dll
+/Users/user/Projects/micsharpapp/micsharpapp/obj/Debug/net7.0/micsharpapp.pdb
+/Users/user/Projects/micsharpapp/micsharpapp/obj/Debug/net7.0/micsharpapp.genruntimeconfig.cache
+/Users/user/Projects/micsharpapp/micsharpapp/obj/Debug/net7.0/ref/micsharpapp.dll
